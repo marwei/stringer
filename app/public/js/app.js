@@ -336,4 +336,7 @@ $(document).ready(function() {
   Mousetrap.bind("?", function() {
     $("#shortcuts").modal('toggle');
   });
+  Mousetrap.bind("space", function() {
+    window.location.href = "http://ruby-doc.org/";
+  });
 });
