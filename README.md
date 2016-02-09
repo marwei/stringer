@@ -1,8 +1,25 @@
+# Stringer-modified
+
+This is a modification of [Stringer RSS reader](https://github.com/swanson/stringer).
+
+### Modification
+
+* No need to log in to visit the news page
+* "Boss Coming!" hotkey (keyboard: space -> jump to http://ruby-doc.org/ :v: :v: )
+
+### Todo
+
+* Add public/private visibility to feeds
+* Add email digests 
+* Enable custom entry of "Boss Coming" jump url
+
+---
 # Stringer
 
 [![Build Status](https://api.travis-ci.org/swanson/stringer.svg?style=flat)](https://travis-ci.org/swanson/stringer)
 [![Code Climate](https://codeclimate.com/github/swanson/stringer.svg?style=flat)](https://codeclimate.com/github/swanson/stringer)
 [![Coverage Status](https://coveralls.io/repos/swanson/stringer/badge.svg?style=flat)](https://coveralls.io/r/swanson/stringer)
+
 
 ### A self-hosted, anti-social RSS reader.
 
